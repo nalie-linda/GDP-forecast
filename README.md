@@ -1,6 +1,8 @@
 # GDP-forecast
 
 In this project, I analyze data from Pandas Datareader library on the World Bank's Development indicators.
+The indicator I chose for analysis is GDP and the country is Kenya
+
 URL--> https://pandas-datareader.readthedocs.io/en/latest/readers/world-bank.html
 
 """
